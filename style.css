@@ -1,0 +1,35 @@
+*{
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+input {
+    outline: 0;
+    box-shadow: none;
+    border: 0 !important;
+    background: #2c3e50;
+    background-image: none;
+    padding-left: 1rem;
+}
+body {
+    min-height: 100vh;
+    font-size: 1rem;
+    background-color: #222;
+}
+.brojevi{
+    width: 20em;
+    display: flex;
+    justify-content: space-between;
+}
+p{
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
